@@ -1,0 +1,45 @@
+/*
+Css - Styles has been written here to use for the class components
+*/
+.header {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  color: red;
+  font-weight: bold;
+  font-size: 24px;
+}
+.stage,
+.statement,
+.instructions,
+.inputs,
+.output {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: aquamarine;
+  text-align: left;
+}
+.statement {
+  background-color: antiquewhite;
+}
+.instructions {
+  background-color: blueviolet;
+}
+.inputs {
+  background-color: yellow;
+}
+.output {
+  background-color: tomato;
+}
+.inputButton {
+  margin: 10px;
+  height: 30px;
+  width: auto;
+  background-color: blue;
+  color: white;
+  -webkit-appearance: none;
+  border: none;
+  pointer-events: auto;
+}

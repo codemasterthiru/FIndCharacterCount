@@ -1,2 +1,0 @@
-# FIndCharacterCount
-Created with CodeSandbox
